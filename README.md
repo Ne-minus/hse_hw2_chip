@@ -15,3 +15,12 @@
 | ![](https://github.com/Ne-minus/hse_hw2_chip/blob/main/data/screenshots/AME_trimmed/AME_pbsq.png)    | ![](https://github.com/Ne-minus/hse_hw2_chip/blob/main/data/screenshots/AMF_trimmed/AMF_pbsq.png)   | ![](https://github.com/Ne-minus/hse_hw2_chip/blob/main/data/screenshots/AHM_trimmed/AHM_pbsq.png) |
 | ![](https://github.com/Ne-minus/hse_hw2_chip/blob/main/data/screenshots/AME_trimmed/AME_psqs.png)    | ![](https://github.com/Ne-minus/hse_hw2_chip/blob/main/data/screenshots/AMF_trimmed/AMF_psqs.png)   | ![](https://github.com/Ne-minus/hse_hw2_chip/blob/main/data/screenshots/AHM_trimmed/AHM_psqs.png) |
 | ![](https://github.com/Ne-minus/hse_hw2_chip/blob/main/data/screenshots/AME_trimmed/AME_psgc.png)    | ![](https://github.com/Ne-minus/hse_hw2_chip/blob/main/data/screenshots/AMF_trimmed/AMF_psgc.png)   | ![](https://github.com/Ne-minus/hse_hw2_chip/blob/main/data/screenshots/AHM_trimmed/AHM_psgc.png) |
+
+После подрезания качество улучшилось, но качество 2-й реплики имеет самый низкий уровень.
+
+## 2. Выравниевание на хромосому
+| **образец | всего ридов | выровненных уникально | выровненных не уникально (>1) | невыровненных** |
+| :-------------: |:------------------:| :-----:| :-----:| :-----:|
+| **ENCFF000AME (реплика 1)** | всего ридов | выровненных уникально | выровненных не уникально (>1) | невыровненных |
+| **ENCFF000AMF (реплика 2)**  | всего ридов | выровненных уникально | выровненных не уникально (>1) | невыровненных |
+| **ENCFF000AHM (контроль)**| всего ридов | выровненных уникально | выровненных не уникально (>1) | невыровненных |
