@@ -30,4 +30,4 @@
 
 | ENCFF000AME (реплика 1) vs. ENCODE | ENCODE vs. ENCFF000AME (реплика 1) | 
 | :-------------: |:------------------:|
-| ![](./data/diagrams/AME1.png) | ![](./data/diagrams/AME1.png) | 
+| ![](./data/diagrams/AME1.png) | ![](./data/diagrams/AME2.png) | 
